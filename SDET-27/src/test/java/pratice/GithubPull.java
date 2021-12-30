@@ -7,6 +7,12 @@ public class GithubPull {
 	@Test
 	public  void createTyy() {
 	Reporter.log("pull from github");
+	
+	
 }
+
+	private void deleteTyy() {
+		Reporter.log("ligin ");
+	}
 
 }

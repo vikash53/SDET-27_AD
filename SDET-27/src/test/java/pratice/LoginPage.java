@@ -7,6 +7,7 @@ public class LoginPage {
 	@Test
 	public void Login() {
 		Reporter.log("loginpage sucessfullty created ");
+		Reporter.log("modification done");
 	}
 
 }
